@@ -1,9 +1,9 @@
         #EXTM3U url-tvg=""
         #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information",BFM TV
-        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE${'$'}BFM_TV/index.m3u8?end=END&start=LIVE
+        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
         
         #EXTINF:-1 tvg-logo="https://i.imgur.com/E93XG6p.png" group-title="Information",BFM Business
-        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE${'$'}BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
         
         #EXTINF:-1 tvg-logo="https://i.imgur.com/Y8vYm0C.png" group-title="Information",France 24 Français
         https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
@@ -21,7 +21,7 @@
         https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
         
         #EXTINF:-1 tvg-logo="https://i.imgur.com/8L8OqYF.png" group-title="Documentaires",BFM Grands Reportages
-        https://tra2-xdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJtaXQxLWNkbi1zcjAwIiwiZXhwIjoxNzY4Njk0OTQ2LCJzdWIiOiJCRk1fR1JBTkRTUkVQT1JUQUdFUyIsImlwIjoiMTA1LjIzNS4xMzQuMjQzIiwiaWF0IjoxNzY4NjUxNzQ2LCJqdGkiOiIwMDdhZTh2MzZzdDlvdnJic2YzMCJ9.fHXHMhiERH5uypwdccIWk4QDrnLofaKBeHhs01B0eks/shls/LIVE${'$'}BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+        https://tra2-xdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJtaXQxLWNkbi1zcjAwIiwiZXhwIjoxNzY4Njk0OTQ2LCJzdWIiOiJCRk1fR1JBTkRTUkVQT1JUQUdFUyIsImlwIjoiMTA1LjIzNS4xMzQuMjQzIiwiaWF0IjoxNzY4NjUxNzQ2LCJqdGkiOiIwMDdhZTh2MzZzdDlvdnJic2YzMCJ9.fHXHMhiERH5uypwdccIWk4QDrnLofaKBeHhs01B0eks/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
         
         #EXTINF:-1 tvg-logo="https://i.imgur.com/6YQ9oM4.png" group-title="Information",RMC Talk Info
         https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
