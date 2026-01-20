@@ -1,0 +1,48 @@
+EXTM3U
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information",BFM TV
+        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE${'$'}BFM_TV/index.m3u8?end=END&start=LIVE
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/E93XG6p.png" group-title="Information",BFM Business
+        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE${'$'}BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/Y8vYm0C.png" group-title="Information",France 24 Français
+        https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Information",Russia Today Français
+        https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/5u9mFwO.png" group-title="Information",Euronews
+        https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25081/euronews-fr.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/jWvM2E7.png" group-title="Généraliste",TV5 Monde
+        https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/jWvM2E7.png" group-title="Généraliste",TV5 Maghreb-Orient
+        https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/8L8OqYF.png" group-title="Documentaires",BFM Grands Reportages
+        https://tra2-xdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJtaXQxLWNkbi1zcjAwIiwiZXhwIjoxNzY4Njk0OTQ2LCJzdWIiOiJCRk1fR1JBTkRTUkVQT1JUQUdFUyIsImlwIjoiMTA1LjIzNS4xMzQuMjQzIiwiaWF0IjoxNzY4NjUxNzQ2LCJqdGkiOiIwMDdhZTh2MzZzdDlvdnJic2YzMCJ9.fHXHMhiERH5uypwdccIWk4QDrnLofaKBeHhs01B0eks/shls/LIVE${'$'}BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/6YQ9oM4.png" group-title="Information",RMC Talk Info
+        https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/6YQ9oM4.png" group-title="Divertissement",RMC Life
+        https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Kx2i.png" group-title="Information",CGTN Français
+        https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/Y8vYm0C.png" group-title="Information",France 24 Arabe
+        https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/79S9GvG.png" group-title="Documentaires",Al Jazeera Wathaikia
+        https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/q2yX9M1.png" group-title="Divertissement",Juste pour Rire (Pluto TV)
+        http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/q2yX9M1.png" group-title="Documentaires",Pluto TV Animaux
+        http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7&serverSideAds=false
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4O89o6.png" group-title="Musique",4Fun TV
+        https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
