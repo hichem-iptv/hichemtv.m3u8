@@ -1,33 +1,45 @@
         #EXTM3U url-tvg=""
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information",BFM TV
+              #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information",BFM TV
         https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
         
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/E93XG6p.png" group-title="Information",BFM Business
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information",BFM Business
         https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
         
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/Y8vYm0C.png" group-title="Information",France 24 Français
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="Information",France 24 Français
         https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
         
         #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Information",Russia Today Français
         https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
         
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/5u9mFwO.png" group-title="Information",Euronews
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="Information",Euronews
         https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25081/euronews-fr.m3u8
         
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/jWvM2E7.png" group-title="Généraliste",TV5 Monde
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="Généraliste",TV5 Monde
         https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
         
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/jWvM2E7.png" group-title="Généraliste",TV5 Maghreb-Orient
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="Généraliste",TV5 Maghreb-Orient
         https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
         
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/8L8OqYF.png" group-title="Documentaires",BFM Grands Reportages
-        https://tra2-xdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJtaXQxLWNkbi1zcjAwIiwiZXhwIjoxNzY4Njk0OTQ2LCJzdWIiOiJCRk1fR1JBTkRTUkVQT1JUQUdFUyIsImlwIjoiMTA1LjIzNS4xMzQuMjQzIiwiaWF0IjoxNzY4NjUxNzQ2LCJqdGkiOiIwMDdhZTh2MzZzdDlvdnJic2YzMCJ9.fHXHMhiERH5uypwdccIWk4QDrnLofaKBeHhs01B0eks/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Documentaires",BFM Grands Reportages
+        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
         
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/6YQ9oM4.png" group-title="Information",RMC Talk Info
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
+        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+        
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/k4Bs0Cj/rmcti.jpg" group-title="Information",RMC Talk Info
         https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
         
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/6YQ9oM4.png" group-title="Divertissement",RMC Life
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/hRCWKTBL/Rmclife.png" group-title="Divertissement",RMC Life
         https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/VpvbTn4/rmcmyst.jpg",RMC MYSTÈRE
+        https://d2mey07nrym09f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zzv8u40ihzmq2/RMC_MYSTERE_FR.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png",MONACO INFO
+        https://webtv.monacoinfo.com/live/prod/index.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",SCIENCES ET VIE
+        https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
         
         #EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Kx2i.png" group-title="Information",CGTN Français
         https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
@@ -46,3 +58,30 @@
         
         #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4O89o6.png" group-title="Musique",4Fun TV
         https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png",mbc 1
+        https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/L8KP0z9/DW-arabic.png",DW ARABIC
+        https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ DOCS
+        https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
+       
+        #EXTINF:-1 tvg-logo="https://asharqdiscovery.com/assets/images/asharq-discover-logo.svg" , الشرق Discovery
+        https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
+        https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
+        https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+        #EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" ,TRT العربية
+        https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+        #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN العربية
+        https://livear.cgtn.com/1000a/prog_index.m3u8
+
+        #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png" ,EL WATANIA TV الوطنيّة
+        https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+        
