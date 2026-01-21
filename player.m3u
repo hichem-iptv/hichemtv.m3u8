@@ -84,7 +84,9 @@
         https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
         
         #EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" ,TRT العربية
-        h#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" , روسيا اليوم
+        https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+        #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" , روسيا اليوم
         https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
         
         #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png" ,EL WATANIA TV الوطنيّة
