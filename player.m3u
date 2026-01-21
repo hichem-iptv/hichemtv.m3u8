@@ -72,7 +72,10 @@
         
         #EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
         https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
-        
+
+        #EXTINF:-1 tvg-id="AlArabiya.nws" tvg-logo="https://i.ibb.co/w7wk4p0/alarabiya.png" , العربية
+        https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
         #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
         https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
         https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
