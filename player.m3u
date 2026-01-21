@@ -31,7 +31,10 @@
         
         #EXTINF:-1 tvg-logo="https://i.ibb.co/hRCWKTBL/Rmclife.png" group-title="Divertissement",RMC Life
         https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
-        
+
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DÉCOUVERTE
+        https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+
         #EXTINF:-1 tvg-logo="https://i.ibb.co/VpvbTn4/rmcmyst.jpg",RMC MYSTÈRE
         https://d2mey07nrym09f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zzv8u40ihzmq2/RMC_MYSTERE_FR.m3u8
         
@@ -40,6 +43,11 @@
         
         #EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",SCIENCES ET VIE
         https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
+
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png",T18
+        https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+        #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
+        https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
         
         #EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Kx2i.png" group-title="Information",CGTN Français
         https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
