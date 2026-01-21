@@ -44,12 +44,6 @@
         #EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Kx2i.png" group-title="Information",CGTN Français
         https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
         
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/Y8vYm0C.png" group-title="Information",France 24 Arabe
-        https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/79S9GvG.png" group-title="Documentaires",Al Jazeera Wathaikia
-        https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-        
         #EXTINF:-1 tvg-logo="https://i.imgur.com/q2yX9M1.png" group-title="Divertissement",Juste pour Rire (Pluto TV)
         http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
         
@@ -67,21 +61,24 @@
         
         #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ DOCS
         https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
-       
-        #EXTINF:-1 tvg-logo="https://asharqdiscovery.com/assets/images/asharq-discover-logo.svg" , الشرق Discovery
-        https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
         
         #EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
         https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
         
         #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
         https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+        https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/Y8vYm0C.png" group-title="Information",France 24 Arabe
+        https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
+        
+        #EXTINF:-1 tvg-logo="https://i.imgur.com/79S9GvG.png" group-title="Documentaires",Al Jazeera Wathaikia
+        https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+        
         #EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" ,TRT العربية
-        https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-        #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN العربية
-        https://livear.cgtn.com/1000a/prog_index.m3u8
-
+        h#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" , روسيا اليوم
+        https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+        
         #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png" ,EL WATANIA TV الوطنيّة
         https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
         
