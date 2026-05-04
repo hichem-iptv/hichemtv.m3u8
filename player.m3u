@@ -61,9 +61,6 @@
         #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4O89o6.png" group-title="Musique",4Fun TV
         https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
         
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png",mbc 1
-        https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-
         #EXTINF:-1 tvg-logo="https://i.ibb.co/L8KP0z9/DW-arabic.png",DW ARABIC
         https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
         
