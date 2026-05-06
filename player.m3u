@@ -1,4 +1,7 @@
-        #EXTM3U url-tvg=""
+#EXTM3U
+#EXTVLCOPT:http-user-agent=IPTVSmarters/1.0.0
+
+#EXTM3U url-tvg=""
               #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information",BFM TV
         https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
         
@@ -91,4 +94,28 @@
         
         #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png" ,EL WATANIA TV الوطنيّة
         https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39hN9K4.png", Dz| Algerie [ ENTV 1 ]
+http://starshare.net/felicia123/felicia321/319320
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71fL9E3.png", Dz| Canal Algerie [ ENTV 2 ]
+http://starshare.net/felicia123/felicia321/319321
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71fL9E3.png", Dz| Algerie 3 TV [ A3 ]
+http://starshare.net/felicia123/felicia321/319322
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6lP0Wn.png", Dz| Echorouk TV
+http://starshare.net/felicia123/felicia321/319323
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6lP0Wn.png", Dz| Echorouk News HD
+http://starshare.net/felicia123/felicia321/319324
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8vG2L6.png", Dz| Samira TV
+http://starshare.net/felicia123/felicia321/319325
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XU6O7I3.png", Dz| El Bilad TV
+http://starshare.net/felicia123/felicia321/319327
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Xy5H7M.png", Dz| EnNahar TV
+http://starshare.net/felicia123/felicia321/319333
         
