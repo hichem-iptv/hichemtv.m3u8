@@ -13,15 +13,6 @@
         
         #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Information",Russia Today Français
         https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/2Xy5H7M.png",FRA | LCI HD 
-        http://starshare.net/felicia123/felicia321/659014
-
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/2Xy5H7M.png",FRA | TF1 HD 
-        http://starshare.net/felicia123/felicia321/659000
-
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/2Xy5H7M.png",FRA | M6 HD 
-        http://starshare.net/felicia123/felicia321/154595
         
         #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="Information",Euronews
         https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25081/euronews-fr.m3u8
@@ -127,4 +118,13 @@ http://starshare.net/felicia123/felicia321/319327
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Xy5H7M.png", Dz| EnNahar TV
 http://starshare.net/felicia123/felicia321/319333
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Xy5H7M.png",FRA | LCI HD 
+http://starshare.net/felicia123/felicia321/659014
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Xy5H7M.png",FRA | TF1 HD 
+http://starshare.net/felicia123/felicia321/659000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Xy5H7M.png",FRA | M6 HD 
+http://starshare.net/felicia123/felicia321/154595
         
