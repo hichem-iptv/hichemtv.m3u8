@@ -119,12 +119,12 @@ http://starshare.net/felicia123/felicia321/319327
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Xy5H7M.png", Dz| EnNahar TV
 http://starshare.net/felicia123/felicia321/319333
 
-#EXTINF:-1 FRA | LCI HD 
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="" group-title="France",FRA | LCI HD (Local)
 http://starshare.net/felicia123/felicia321/659014
 
-#EXTINF:-1 FRA | TF1 HD 
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="" group-title="France",FRA | TF1 (Local)
 http://starshare.net/felicia123/felicia321/659000
 
-#EXTINF:-1 FRA | M6 HD 
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="" group-title="France",FRA | M6 (Local)
 http://starshare.net/felicia123/felicia321/154595
         
