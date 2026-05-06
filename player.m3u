@@ -1,130 +1,127 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=IPTVSmarters/1.0.0
 
-#EXTM3U url-tvg=""
-              #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information",BFM TV
-        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information",BFM Business
-        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="Information",France 24 Français
-        https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Information",Russia Today Français
-        https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="Information",Euronews
-        https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25081/euronews-fr.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="Généraliste",TV5 Monde
-        https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="Généraliste",TV5 Maghreb-Orient
-        https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Documentaires",BFM Grands Reportages
-        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
-        https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/k4Bs0Cj/rmcti.jpg" group-title="Information",RMC Talk Info
-        https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/hRCWKTBL/Rmclife.png" group-title="Divertissement",RMC Life
-        https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DÉCOUVERTE
-        https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/VpvbTn4/rmcmyst.jpg",RMC MYSTÈRE
-        https://d2mey07nrym09f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zzv8u40ihzmq2/RMC_MYSTERE_FR.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png",MONACO INFO
-        https://webtv.monacoinfo.com/live/prod/index.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",SCIENCES ET VIE
-        https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="Information",France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
 
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png",T18
-        https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
-        https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Kx2i.png" group-title="Information",CGTN Français
-        https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/q2yX9M1.png" group-title="Divertissement",Juste pour Rire (Pluto TV)
-        http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
-        
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/q2yX9M1.png" group-title="Documentaires",Pluto TV Animaux
-        http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7&serverSideAds=false
-        
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4O89o6.png" group-title="Musique",4Fun TV
-        https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/L8KP0z9/DW-arabic.png",DW ARABIC
-        https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ DOCS
-        https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
-        https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Information",Russia Today Français
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 
-        #EXTINF:-1 tvg-id="AlArabiya.nws" tvg-logo="https://i.ibb.co/w7wk4p0/alarabiya.png" , العربية
-        https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="Information",Euronews
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25081/euronews-fr.m3u8
 
-        #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
-        https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-        https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="Généraliste",TV5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/Y8vYm0C.png" group-title="Information",France 24 Arabe
-        https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://i.imgur.com/79S9GvG.png" group-title="Documentaires",Al Jazeera Wathaikia
-        https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-        
-        #EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" ,TRT العربية
-        https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="Généraliste",TV5 Maghreb-Orient
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 
-        #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" , روسيا اليوم
-        https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-        
-        #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png" ,EL WATANIA TV الوطنيّة
-        https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Documentaires",BFM Grands Reportages
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39hN9K4.png", Dz| Algerie [ ENTV 1 ]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-title="Tech",TECH & CO
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k4Bs0Cj/rmcti.jpg" group-title="Information",RMC Talk Info
+https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRCWKTBL/Rmclife.png" group-title="Divertissement",RMC Life
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="Documentaires",RMC DÉCOUVERTE
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VpvbTn4/rmcmyst.jpg" group-title="Documentaires",RMC MYSTÈRE
+https://d2mey07nrym09f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zzv8u40ihzmq2/RMC_MYSTERE_FR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png" group-title="Généraliste",MONACO INFO
+https://webtv.monacoinfo.com/live/prod/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg" group-title="Documentaires",SCIENCES ET VIE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="Divertissement",CSTAR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Kx2i.png" group-title="Information",CGTN Français
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q2yX9M1.png" group-title="Divertissement",Juste pour Rire
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&deviceType=web
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q2yX9M1.png" group-title="Documentaires",Pluto TV Animaux
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&deviceType=web
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4O89o6.png" group-title="Musique",4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8KP0z9/DW-arabic.png" group-title="Arabe",DW ARABIC
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="Arabe",ASHARQ DOCS
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png" group-title="Arabe",BBC NEWS ARABIA
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7wk4p0/alarabiya.png" group-title="Arabe",AL ARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png" group-title="Arabe",AL HADATH
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8vYm0C.png" group-title="Arabe",FRANCE 24 ARABIC
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/79S9GvG.png" group-title="Arabe",AL JAZEERA DOCS
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" group-title="Arabe",TRT ARABIC
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" group-title="Arabe",RUSSIA TODAY ARABIC
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png" group-title="Algérie",EL WATANIA TV
+https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39hN9K4.png" group-title="Algérie",ENTV 1
 http://starshare.net/felicia123/felicia321/319320
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/71fL9E3.png", Dz| Canal Algerie [ ENTV 2 ]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71fL9E3.png" group-title="Algérie",CANAL ALGERIE
 http://starshare.net/felicia123/felicia321/319321
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/71fL9E3.png", Dz| Algerie 3 TV [ A3 ]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71fL9E3.png" group-title="Algérie",ALGERIE 3
 http://starshare.net/felicia123/felicia321/319322
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k6lP0Wn.png", Dz| Echorouk TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6lP0Wn.png" group-title="Algérie",ECHOROUK TV
 http://starshare.net/felicia123/felicia321/319323
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k6lP0Wn.png", Dz| Echorouk News HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6lP0Wn.png" group-title="Algérie",ECHOROUK NEWS
 http://starshare.net/felicia123/felicia321/319324
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N8vG2L6.png", Dz| Samira TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8vG2L6.png" group-title="Algérie",SAMIRA TV
 http://starshare.net/felicia123/felicia321/319325
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XU6O7I3.png", Dz| El Bilad TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XU6O7I3.png" group-title="Algérie",EL BILAD TV
 http://starshare.net/felicia123/felicia321/319327
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Xy5H7M.png", Dz| EnNahar TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Xy5H7M.png" group-title="Algérie",ENNAHAR TV
 http://starshare.net/felicia123/felicia321/319333
 
-#EXTINF:-1,FRA | LCI HD (Local)
+#EXTINF:-1 group-title="France",LCI HD
 http://starshare.net/felicia123/felicia321/659014
 
-#EXTINF:-1,FRA |TF1 HD (Local)
+#EXTINF:-1 group-title="France",TF1 HD
 http://starshare.net/felicia123/felicia321/659000
 
-#EXTINF:-1,FRA | M6 HD (Local)
+#EXTINF:-1 group-title="France",M6 HD
 http://starshare.net/felicia123/felicia321/154595
+
         
