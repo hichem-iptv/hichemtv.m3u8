@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=IPTVSmarters/1.0.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Information",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
