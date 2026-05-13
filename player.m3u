@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png" group-title="Algérie",EL WATANIA TV
 https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Algérie",ALGERIE 24
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElWatania1.tn@SD",Tunisie 1 
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
