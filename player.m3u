@@ -17,6 +17,9 @@ http://145.239.5.177/368/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr@HD",LCI HD serveur 2
 http://151.80.18.177:86/LCI_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="arte.fr@SD",arte (720p)
+http://145.239.5.177/300/index.m3u8
+
 #EXTINF:-1 tvg-id="TFX.fr@SD",TFX (720p)
 http://145.239.5.177/315/index.m3u8
 
